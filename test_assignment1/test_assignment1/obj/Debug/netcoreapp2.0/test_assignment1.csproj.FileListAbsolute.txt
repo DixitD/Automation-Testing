@@ -1,0 +1,11 @@
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\bin\Debug\netcoreapp2.0\test_assignment1.deps.json
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\bin\Debug\netcoreapp2.0\test_assignment1.runtimeconfig.json
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\bin\Debug\netcoreapp2.0\test_assignment1.runtimeconfig.dev.json
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\bin\Debug\netcoreapp2.0\test_assignment1.dll
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\obj\Debug\netcoreapp2.0\test_assignment1.csprojResolveAssemblyReference.cache
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\obj\Debug\netcoreapp2.0\test_assignment1.csproj.CoreCompileInputs.cache
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\obj\Debug\netcoreapp2.0\test_assignment1.AssemblyInfoInputs.cache
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\obj\Debug\netcoreapp2.0\test_assignment1.AssemblyInfo.cs
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\bin\Debug\netcoreapp2.0\test_assignment1.pdb
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\obj\Debug\netcoreapp2.0\test_assignment1.dll
+c:\users\dixit\source\repos\test_assignment1\test_assignment1\obj\Debug\netcoreapp2.0\test_assignment1.pdb
